@@ -1,3 +1,4 @@
-INSERT INTO cats (name) VALUES ('burger1');
-INSERT INTO cats (name) VALUES ('burger2');
-INSERT INTO cats (name) VALUES ('burger3');
+INSERT INTO burgers (burger_name, devoured) VALUES ('burger1', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('burger2', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('burger3', false);
+
